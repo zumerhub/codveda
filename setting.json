@@ -1,0 +1,24 @@
+{
+  // Stops suggestions from popping up automatically as you type
+  "editor.quickSuggestions": {
+    "other": "off",
+    "comments": "off",
+    "strings": "off"
+  },
+  
+  // Prevents suggestions from popping up when you type trigger characters (like '.' or '->')
+  "editor.suggestOnTriggerCharacters": false,
+  
+  // Disables the popup that shows function signatures/parameters
+  "editor.parameterHints.enabled": false,
+  
+  // Prevents pressing 'Tab' or 'Enter' from accidentally accepting a suggestion you didn't see
+  "editor.acceptSuggestionOnEnter": "off",
+  "editor.tabCompletion": "off",
+  
+  // Disables the inline "ghost text" completions (often used by Copilot/built-in AI)
+  "editor.inlineSuggest.enabled": false,
+
+  // Optional: Stops VS Code from scanning your open files to guess words
+  "editor.wordBasedSuggestions": "off"
+}
