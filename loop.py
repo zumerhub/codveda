@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 """
 write a loop function to iterate through a list of numbers and print each number multiplied by 2.
 This combines:
@@ -131,3 +132,6 @@ def analysis_attedance(logs):
     }
 
 print(analysis_attedance(logs))
+=======
+
+>>>>>>> aa994dd98c68151d16f870b3683b7e6f3ec055b2
